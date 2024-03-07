@@ -28,6 +28,13 @@
         float: right;
         width: 70%;
     }
+    div#form > h1 {
+        font-size: 2em;
+    }
+    
+    div#form > p {
+        font-size: 1em;
+    }
     
 }
 
@@ -52,5 +59,11 @@
         float: left;
         width: 50%;
     }
+    div#form > h1 {
+        font-size: 2em;
+    }
     
+    div#form > p {
+        font-size: 1.2em;
+    }
 }

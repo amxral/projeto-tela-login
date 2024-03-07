@@ -56,3 +56,12 @@ section#login > div#form {
     padding: 10px;
     display: block;
 }
+
+div#form > h1 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+div#form > p {
+    font-size: .8em;
+}
